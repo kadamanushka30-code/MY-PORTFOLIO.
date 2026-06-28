@@ -18,9 +18,6 @@
 2. Open the project folder.
 3. Run the project in your browser.
 
-**Bash**
-git clone https://github.com/kadamanushka30-code/MyPortfolio.git
-
 **Usage**
 Open the website and browse through the portfolio sections to view my projects, skills, and contact information.
 
