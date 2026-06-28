@@ -29,3 +29,5 @@ This project helps me build a professional online presence and makes it easier t
 
 **Repository Description**
 A responsive personal portfolio website built to showcase projects, skills, and resume details in a clean and professional layout.
+
+**YOU CAN ALSO SEE THE PROEJECT AS I HAVE ATTACTED THE PROJECT TO THE REPOSTORIES**
